@@ -20,7 +20,21 @@ enum Present {
 }
 
 fn solve(p: Problem) -> Vec<Present> {
-    unimplemented!()
+    let mut result = Vec::new();
+    for i in 1..p.n+1 {
+        let a = i % p.x == 0;
+        let b = i % p.y == 0;
+        if a && b {
+            result.push(Present::AB);
+        } else if a {
+            result.push(Present::A);
+        } else if b {
+            result.push(Present::B);
+        } else {
+            result.push(Present::N);
+        }
+    }
+    result
 }
 
 #[cfg(test)]
