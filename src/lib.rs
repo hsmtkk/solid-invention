@@ -4,4 +4,5 @@
 //mod detect_buzz;
 //mod bakery;
 //mod table_generator;
-mod turukame;
+//mod turukame;
+mod darts_game;
