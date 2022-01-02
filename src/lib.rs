@@ -5,4 +5,5 @@
 //mod bakery;
 //mod table_generator;
 //mod turukame;
-mod darts_game;
+//mod darts_game;
+mod valid_ticket;
