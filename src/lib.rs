@@ -6,4 +6,5 @@
 //mod table_generator;
 //mod turukame;
 //mod darts_game;
-mod valid_ticket;
+//mod valid_ticket;
+mod ticket_counter;
