@@ -8,5 +8,5 @@
 //mod darts_game;
 //mod valid_ticket;
 //mod ticket_counter;
-mod origami_paste;
-
+//mod origami_paste;
+mod aikotoba;
