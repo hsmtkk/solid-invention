@@ -9,4 +9,5 @@
 //mod valid_ticket;
 //mod ticket_counter;
 //mod origami_paste;
-mod aikotoba;
+//mod aikotoba;
+mod lucky_day;
