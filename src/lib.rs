@@ -10,4 +10,5 @@
 //mod ticket_counter;
 //mod origami_paste;
 //mod aikotoba;
-mod lucky_day;
+//mod lucky_day;
+mod summer_vacation;
