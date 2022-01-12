@@ -13,4 +13,5 @@
 //mod lucky_day;
 //mod summer_vacation;
 //mod bus_time;
-mod medal_rank;
+//mod medal_rank;
+mod gold_fish;
