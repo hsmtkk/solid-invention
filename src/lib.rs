@@ -12,4 +12,5 @@
 //mod aikotoba;
 //mod lucky_day;
 //mod summer_vacation;
-mod bus_time;
+//mod bus_time;
+mod medal_rank;
