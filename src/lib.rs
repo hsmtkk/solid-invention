@@ -14,4 +14,6 @@
 //mod summer_vacation;
 //mod bus_time;
 //mod medal_rank;
-mod gold_fish;
+//mod gold_fish;
+//mod socks_pair;
+mod book_buy_rank;
