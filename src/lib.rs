@@ -23,4 +23,6 @@
 //mod fest_date;
 //mod recipe_food;
 //mod robot_program;
-mod guess_number;
+//mod guess_number;
+//mod high_score_rank;
+mod item_count;
